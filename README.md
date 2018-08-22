@@ -1,2 +1,3 @@
 # flutter-jira
-flutter simple jira client
+
+A Flutter JIRA Client
