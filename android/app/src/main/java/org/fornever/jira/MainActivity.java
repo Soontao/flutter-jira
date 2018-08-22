@@ -1,4 +1,4 @@
-package com.example.jira;
+package org.fornever.jira;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
